@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Most Recently Used 
+"""Most Recently Used
 """
 from collections import OrderedDict
 

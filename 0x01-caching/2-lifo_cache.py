@@ -1,6 +1,6 @@
-
 #!/usr/bin/env python3
-"""Last-In First-Out 
+
+"""Basic caching
 """
 from collections import OrderedDict
 
@@ -32,4 +32,3 @@ class LIFOCache(BaseCaching):
         """Retrieves an item by key.
         """
         return self.cache_data.get(key, None)
-    

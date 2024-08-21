@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""First-In First-Out 
+"""Basic caching.
 """
-from collections import OrderedDict
 
+from collections import OrderedDict
 from base_caching import BaseCaching
 
 
